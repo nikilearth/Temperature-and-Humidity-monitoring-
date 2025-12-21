@@ -1,8 +1,8 @@
-# ☁️ IoT-Based Humidity and Temperature Monitoring using NodeMCU
+# ☁️ IoT Based Humidity and Temperature Monitoring using NodeMCU
 
 ## Abstract
 
-This project describes an **IoT-based system** for real-time monitoring of temperature and humidity. It utilizes the **NodeMCU ESP8266** microcontroller, a **DHT11 sensor**, and the **ThingSpeak cloud platform** to create a smart environmental monitoring solution. The system continuously measures environmental conditions and sends the real-time data to the internet via Wi-Fi. This data can then be accessed and monitored remotely via a web dashboard where ThingSpeak visualizes the readings in graphs. The data is updated every **5-15 seconds**, allowing users to easily analyze trends and climate conditions over time. This system is a cost-effective, scalable solution useful for weather stations, agriculture, smart homes, and industrial applications.
+This project describes an **IoT-based system** for real time monitoring of temperature and humidity. It utilizes the **NodeMCU ESP8266** microcontroller, a **DHT11 sensor**, and the **ThingSpeak cloud platform** to create a smart environmental monitoring solution. The system continuously measures environmental conditions and sends the real time data to the internet via WiFi. This data can then be accessed and monitored remotely via a web dashboard where ThingSpeak visualizes the readings in graphs.
 
 ---
 
@@ -12,7 +12,7 @@ The following apparatus is required for this project:
 
 | Component | Description |
 | :--- | :--- |
-| **NodeMCU ESP8266** | Wi-Fi-based microcontroller used to process data and transmit it to the cloud. |
+| **NodeMCU ESP8266** | WiFi based microcontroller used to process data and transmit it to the cloud. |
 | **DHT11 Sensor** | Measures and reads the environmental temperature and humidity conditions. |
 | **Breadboard** | Used for prototyping and organizing component connections. |
 | **Jumper Wires** | Connects the components together. |
@@ -26,7 +26,7 @@ The following apparatus is required for this project:
 The NodeMCU and DHT11 sensor form the core of the system.
 
 1.  **Sensing:** The **DHT11 sensor** reads the current temperature and humidity from the environment.
-2.  **Processing:** The **NodeMCU** receives this data, processes it, and transmits it over Wi-Fi.
+2.  **Processing:** The **NodeMCU** receives this data, processes it, and transmits it over WiFi.
 3.  **Cloud Integration:** The data is transmitted to the **ThingSpeak cloud platform**.
 4.  **Monitoring:** The data is updated every **5-15 seconds**, allowing users to monitor climate conditions remotely.
 5.  **Visualization:** ThingSpeak then visualizes the readings in graphs, making it easy to analyze trends over time.
