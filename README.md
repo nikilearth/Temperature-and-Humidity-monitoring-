@@ -2,7 +2,8 @@
 
 ## Abstract
 
-This project describes an **IoT-based system** for real time monitoring of temperature and humidity. It utilizes the **NodeMCU ESP8266** microcontroller, a **DHT11 sensor**, and the **ThingSpeak cloud platform** to create a smart environmental monitoring solution. The system continuously measures environmental conditions and sends the real time data to the internet via WiFi.
+This project describes an **IoT based system** for real time monitoring of temperature and humidity. It utilizes the **NodeMCU ESP8266** microcontroller, a **DHT11 sensor**, and the **ThingSpeak cloud platform** to create a smart environmental monitoring solution. The system continuously measures environmental conditions and sends the real time data to the internet via WiFi.
+
 ---
 
 ## Components and Materials
