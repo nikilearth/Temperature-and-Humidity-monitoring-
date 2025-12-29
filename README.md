@@ -1,4 +1,4 @@
-# ☁️ IoT Based Humidity and Temperature Monitoring using NodeMCU
+# IoT Based Humidity and Temperature Monitoring using NodeMCU
 
 ## Abstract
 
