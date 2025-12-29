@@ -8,8 +8,6 @@ This project describes an **IoT based system** for real time monitoring of tempe
 
 ## Components and Materials
 
-The following apparatus is required for this project:
-
 | Component | Description |
 | :--- | :--- |
 | **NodeMCU ESP8266** | WiFi based microcontroller used to process data and transmit it to the cloud. |
